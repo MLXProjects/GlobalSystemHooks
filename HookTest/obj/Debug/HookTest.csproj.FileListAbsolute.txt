@@ -1,0 +1,14 @@
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Debug\GlobalCbtHook.dll
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Debug\HookTest.exe
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Debug\HookTest.pdb
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\MainWindow.baml
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\MainWindow.g.cs
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\App.g.cs
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\HookTest_MarkupCompile.cache
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\HookTest.g.resources
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\HookTest.Properties.Resources.resources
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\HookTest.exe
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Debug\HookTest.pdb

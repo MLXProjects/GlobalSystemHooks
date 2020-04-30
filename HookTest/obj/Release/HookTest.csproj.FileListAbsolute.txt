@@ -1,0 +1,14 @@
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Release\HookTest.exe
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Release\HookTest.pdb
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\MainWindow.baml
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\MainWindow.g.cs
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\App.g.cs
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\HookTest_MarkupCompile.cache
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\HookTest.g.resources
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\HookTest.Properties.Resources.resources
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\GenerateResource.read.1.tlog
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\GenerateResource.write.1.tlog
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\HookTest.exe
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\obj\Release\HookTest.pdb
+C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\HookTest\bin\Release\GlobalCbtHook.dll
