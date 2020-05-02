@@ -1,4 +1,0 @@
-﻿  GlobalCbtHook.cpp
-     Bibliothek "Release\GlobalCbtHook.lib" und Objekt "Release\GlobalCbtHook.exp" werden erstellt.
-GlobalCbtHook.exp : warning LNK4070: Die /OUT:SystemHookCore.dll-Direktive in .EXP weicht vom Ausgabedateinamen "Release\GlobalCbtHook.dll" ab; Direktive wird ignoriert.
-  GlobalCbtHook.vcxproj -> C:\Users\baltar.UNIVERSUM\Downloads\WilsonGlobalSystemHooks_src\GlobalCbtHook\Release\GlobalCbtHook.dll
